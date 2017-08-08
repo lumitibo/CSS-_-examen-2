@@ -1,0 +1,36 @@
+avance1
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <title>Ini - Fotografias</title>
+    <link rel="stylesheet" href="css/estilos.css">
+  </head>
+  <body>
+    <header>
+      <div class="contenedor1" role="main">
+        <div class="col-menu1">
+           <h1>Comenzando con la Fotografia</h1>
+        </div>
+        <div class="col-menu1">
+          <navbar id="menu-principal">
+              <ul>
+                <a href="#" style="color:white">Inicio</a>
+                <a href="#"style="color:white">Paisajes</a>
+                <a href="#"style="color:white">Retratos</a>
+              </ul>
+            </navbar>
+        </div>
+      </div>
+    </header>
+
+
+    <section>
+
+    </section>
+    <footer>
+
+    </footer>
+  </body>
+</html>

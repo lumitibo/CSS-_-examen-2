@@ -1,0 +1,3 @@
+tarea1
+ubicar el float xq no renderiza?
+se avanzo en cassa hasta culminar la primera html 06/08/2017
